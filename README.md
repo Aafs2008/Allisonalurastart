@@ -2,6 +2,10 @@
 :clown_face:Boas vindas ao meu perfil :clown_face::clown_face:
 Meu nome é :clown_face: Allison Augusto :dizzy_face:
 
+
+༼ つ ◕_◕ ༽つ 🍔 ☜(ﾟヮﾟ☜)
+
+
 Estou estudando na Alura :nerd_face:
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
